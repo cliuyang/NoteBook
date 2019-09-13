@@ -17,5 +17,5 @@
 
 目前为止，该库中拥有的笔记有：
 
-* [概率论与数理统计](./University/Probability%20Theory%20and%20Mathematical%20Statistics.md)
+* [概率论与数理统计](./University/Probability-Theory-and-Mathematical-Statistics.md)
 * [Latex公式](./Help/symbols.pdf)
