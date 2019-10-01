@@ -19,3 +19,4 @@
 
 * [概率论与数理统计](./University/Probability-Theory-and-Mathematical-Statistics.md)
 * [Latex公式](./Help/symbols.pdf)
+* [离散数学](./University/Advanced-Mathematics.md)
